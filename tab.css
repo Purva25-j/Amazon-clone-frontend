@@ -1,0 +1,179 @@
+.nav{
+    width:496px;
+    height: 42px;
+    
+}
+/*box1*/
+.nav-logo img{
+    height:45px;
+    width: 50px;
+   
+}
+
+/*box2*/
+.first-sec{
+    font-size: 0.50rem;
+    margin:0.1rem
+}
+.second-sec{
+    font-size: 0.60rem;
+    font-weight: 500;
+    
+}
+
+/*box3*/
+.nav-search{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.nav-search input{
+    width: 150px;
+    font-size: 0.70rem;
+    height: 25px;
+
+}
+.nav-search select{
+   
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    width: 35px;
+}
+.nav-search option{
+
+    width:30px;
+}
+.search-icon{
+   
+    width:27px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+/*box4*/
+.userinfo p{
+    font-size: 0.40rem;
+}
+.userinfo h3{
+    font-weight: 500;
+    font-size: 8px;
+}
+
+/*box5*/
+.amazon-cart{
+    font-size: 0.60rem
+}
+
+.amazon-cart i{
+    font-size: 18px;
+}
+ .panel{
+    width:496px;
+    display: flex;
+    flex-wrap: wrap;
+    height:28px;
+    
+   
+}
+.bars{
+    font-weight: 500;
+    Margin-left:5px;
+    font-size: 9px;
+}
+.panel-ops p{
+    display: inline;
+    Margin-left:1px;
+    font-size: 9px;
+   
+    
+}
+/*hero section*/
+.hero{
+    width:496px;
+    height:200px;
+    
+}
+.hero-msg{
+    height:12px;
+    padding:11px;
+    margin-bottom: 20px;
+    width: 90%;
+    font-size: 8px;
+}
+.hero-msg a{
+    color: rgb(53, 101, 189);
+}
+
+/*for shopping sec*/
+.shopping-sec{
+    width:496px;
+
+}
+.box-content h2{
+font-size:16px;
+}
+.box{
+    margin-top: 30px;
+    height: 145px;
+    width:45%;
+    padding: 16px 0px 10px;
+}
+
+.bg-img{
+    height: 92px;
+    margin-top: 0.85rem;
+    background-size: cover;
+    margin-bottom: 0.85rem;
+}
+.box-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.box-content p{
+    font-size:12px;
+}
+
+/*for footer section*/
+footer{
+    width:496px;
+}
+.footer-panel1{
+    height:39px; 
+    font-size: 0.85rem;
+}
+.footer-panel2{
+    height: 237px;
+}
+ul{
+    margin-left:2px;
+}
+ ul a{
+    font-size:0.50rem;
+    margin-top: 10px;
+}
+ul p{
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 22px;
+    font-size: 8px;
+}
+.panel3{
+    height:58px;
+}
+.logo-img img
+{
+    height:55px;
+    width: 120px;
+}
+.panel4{
+    height: 60px;
+    font-size: 0.60rem;
+   
+}
+.pages a{
+    padding:0.6em;
+}
+.copyright{
+    padding-top: 10px;
+} 
